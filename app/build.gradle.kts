@@ -10,12 +10,12 @@ plugins {
 }
 
 android {
-    namespace = "com.metrolist.music.custom"
+    namespace = "com.metrolist.music"
     compileSdk = 36
     ndkVersion = "25.1.8937393"
 
     defaultConfig {
-        applicationId = "com.metrolist.music.custom"
+        applicationId = "com.metrolist.music"
         minSdk = 26
         targetSdk = 36
         versionCode = 130
